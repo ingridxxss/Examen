@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+}
+.nombre{
+    justify-content: flex-start;
+}
+.link{
+    justify-content: flex-end;
+}
