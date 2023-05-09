@@ -3,7 +3,9 @@
 }
 .nombre{
     justify-content: flex-start;
+    align-items: flex-start;
 }
 .link{
     justify-content: flex-end;
+    align-items: flex-start;
 }
